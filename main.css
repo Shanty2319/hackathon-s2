@@ -3,6 +3,13 @@
     margin: 0;
     font-family: Helvetica;
 }
+.box-principal {
+    width: 960px;
+    height: 525px;
+    left: 0px;
+    top: 0px;
+    background: #C4C4C4;
+}
 h1 {
     position: absolute;
 width: 321px;
@@ -17,7 +24,7 @@ font-size: 64px;
 line-height: 74px;
 color: #FFFFFF;
 }
-.h2p {
+.h2-1 {
     width: 365px;
     height: 117px;
     padding-top: 8px;
@@ -32,25 +39,168 @@ color: #FFFFFF;
     border-radius: 10px;
     position: absolute;
     margin: 290px 0 0 40px;
-
 }
 
+.h2-2 {
+    position: absolute;
+width: 155px;
+height: 41px;
+left: 408px;
+top: 552px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+
+color: #FFFFFF;
+}
+
+.h2-3 {
+    position: absolute;
+width: 165px;
+height: 41px;
+left: 404px;
+top: 980px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+
+color: #FFFFFF;
+}
+
+.h2-4 {
+position: absolute;
+width: 169px;
+height: 41px;
+left: 399px;
+top: 1415px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+
+color: #FFFFFF;
+}
+
+.h2-5 {
+position: absolute;
+width: 141px;
+height: 41px;
+left: 413px;
+top: 1833px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+
+color: #FFFFFF;
+}
+.h3-1 {
+    position: absolute;
+width: 50px;
+height: 21px;
+left: 64px;
+top: 1054px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+}
+.h3-2 {
+    position: absolute;
+    width: 38px;
+    height: 21px;
+    left: 499px;
+    top: 1054px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.h3-3 {
+    position: absolute;
+    width: 82px;
+    height: 21px;
+    left: 65px;
+    top: 1135px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.h3-4 {
+    position: absolute;
+    width: 32px;
+    height: 21px;
+    left: 500px;
+    top: 1135px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.h3-5 {
+    position: absolute;
+    width: 64px;
+    height: 21px;
+    left: 66px;
+    top: 1227px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.h3-6 {
+    position: absolute;
+    width: 77px;
+    height: 21px;
+    left: 501px;
+    top: 1227px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
 .principal {
     width: 960px;
     height: 535px;
     margin: 0 auto;
+    background-image: url(./images/mainimage1.png);
+    
+    position: absolute;
+    width: 960px;
+    height: 525px;
+    left: 0px;
+    top: 0px;
+    
 }
-.principal h1 {
-    text-align: center;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 64px;
-    line-height: 74px;
-    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
-    color: #FFF;
-    padding-top: 35px;
-}
-
 
 .boton-vercv {
 width: 71px;
@@ -66,6 +216,7 @@ line-height: 25px;
 
 color: #FFFFFF;
 
+position: absolute;
 width: 187px;
 height: 62px;
 left: 38px;
@@ -75,12 +226,7 @@ background: #D16FFF;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 20px;
 }
-.box-principal {
-    background-image: url(./images/mainimage1.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
+
 p {
     
 position: absolute;
@@ -95,4 +241,45 @@ font-weight: normal;
 font-size: 14px;
 line-height: 24px;
 color: #F8F8F8;
+}
+.box-sobre-mi {
+    width: 960px;
+    height: 424px;
+    left: 0px;
+    top: 525px; 
+}
+.sobre-mi {
+    width: 960px;
+    height: 424px;
+    left: 0px;
+    top: 525px;
+    background: #7299FE;
+
+}
+.box-mis-skills {
+
+width: 960px;
+height: 424px;
+left: 0px;
+top: 949px;
+
+background: #9122FF;
+}
+.box-portafolio {
+
+width: 960px;
+height: 424px;
+left: 0px;
+top: 1373px;
+
+background: #FFD233;
+}
+.box-clientes {
+    position: absolute;
+width: 960px;
+height: 258px;
+left: -1px;
+top: 1797px;
+
+background: #3F4E62;
 }
